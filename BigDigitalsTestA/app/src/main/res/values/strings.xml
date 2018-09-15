@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Big Digitals Test A</string>
+
+    <string name="edit_text_hint">Введите ссылку на картинку</string>
+    <string name="button_ok">OK</string>
+    <string name="sortByDate">Сортировать по дате</string>
+    <string name="sortByStatus">Сортировать по статусу</string>
+    <string name="installSecondApp">Необходимо установить второе приложение Big Digitals Test B</string>
+    <string name="empty_list">Список пуст</string>
+
+</resources>
